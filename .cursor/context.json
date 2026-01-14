@@ -1,0 +1,11 @@
+{
+  "docs": [
+    "https://docs.spring.io/spring-boot/docs/current/reference/html/",
+    "https://docs.spring.io/spring-framework/docs/current/reference/html/",
+    "https://docs.spring.io/spring-security/reference/",
+    "https://spring.io/projects/spring-data-jpa",
+    "https://kafka.apache.org/documentation/",
+    "https://docs.docker.com/",
+    "https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/"
+  ]
+}
